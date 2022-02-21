@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Erik",
+      "lastName": "Felipe",
+      "email": "erikFelipe@gmail.com",
+      "telefone": "123456789",
+      "salary": "100000000"
+    },
+    {
+      "id": 2,
+      "firstName": "erik",
+      "lastName": " felipe ",
+      "email": "erik@teste.com",
+      "telefone": "123",
+      "salary": "123123123"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "erik",
+      "email": "erik@teste.com",
+      "password": "123",
+      "mobile": 123,
+      "id": 1
+    },
+    {
+      "fullname": "Erik Felipe",
+      "email": "teste123@teste.com",
+      "password": "123",
+      "mobile": 123,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
