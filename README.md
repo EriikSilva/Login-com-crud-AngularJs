@@ -1,27 +1,33 @@
-# Angularcrud
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1.
+#Login Funcional com Crud em AngularJs
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+##Inicialização do projeto
 
-## Code scaffolding
+abra 2 terminais dentro da pasta do projeto
+Primeiro Terminal: `ng serve` ou `npm start` ou `yarn start` para rodar o projeto em `http://localhost:4200/`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Segundo Terminal: `json-server --watch db.json` para rodar a api usada no projeto em `http://localhost:3000`
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+#Primeira tela
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![image](https://user-images.githubusercontent.com/61124602/155006265-3c63ea11-d239-412d-93b0-562b4e3e6ace.png)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+#Registro
+![image](https://user-images.githubusercontent.com/61124602/155006302-29588491-5059-4ff5-96e7-31bffb1366a5.png)
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Apos ter feito o registro, faça o login
+
+#Dashboard
+
+![image](https://user-images.githubusercontent.com/61124602/155006578-1710acba-808c-47ad-be4f-48b078578612.png)
+
+no dashboard havera um crud que voce podera adicionar, editar e excluir "funcionarios"
+
+
+
+é Isso :)
